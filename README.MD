@@ -47,15 +47,9 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um titulo para um artigo sobre inteligencia artificial e os desafios do mundo moderno, seja persuasivo igual ao mrBeast                                                                                                                                                                                                  |
+| conteúdo | Desenvolva um artigo que seja rico em informações sobre inteligencia artificial e os desafios do mundo moderno, e seja persoasivo com palavras bonitas e destacadas |
 
-
-Lexica.art：
-
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
-
-• Angular
 
 
 
