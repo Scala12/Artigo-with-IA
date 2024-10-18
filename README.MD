@@ -48,7 +48,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um titulo para um artigo sobre inteligencia artificial e os desafios do mundo moderno, seja persuasivo igual ao mrBeast                                                                                                                                                                                                  |
-| conteúdo | Desenvolva um artigo que seja rico em informações sobre inteligencia artificial e os desafios do mundo moderno, e seja persoasivo com palavras bonitas e destacadas |
+| conteúdo | Desenvolva um artigo que seja rico em informações sobre inteligencia artificial e os desafios do mundo moderno, e seja persuasivo com palavras bonitas e destacadas |
 
 
 
